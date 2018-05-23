@@ -1,3 +1,4 @@
 # ProjectEulerSolutions
 Contains my solutions to math and programming challenges from projecteuler.net
-Solution languages are mostly C++ but a few are in Python
+
+Solution are mostly in C++ and occasionally in Python
